@@ -29,4 +29,5 @@ Master of Information Technology graduate (UNSW Sydney, 2026), focused on **LLM 
 
 ### Contact
 
-Email: [dannieec@hotmail.com](mailto:dannieec@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/danic-125189dc/)
+· Email: [dannieec@hotmail.com](mailto:dannieec@hotmail.com) 
+· LinkedIn: [LinkedIn](https://www.linkedin.com/in/danic-125189dc/)
