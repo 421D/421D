@@ -1,6 +1,6 @@
 ## Hi, I'm Danni Cai 👋
 
-Master of Information Technology student at UNSW Sydney, focused on **LLM applications**, **recommender systems** and **full-stack development**.
+Master of Information Technology graduate (UNSW Sydney, 2026), focused on **LLM applications**, **recommender systems** and **full-stack development**.
 
 ### Skills
 
@@ -29,4 +29,4 @@ Master of Information Technology student at UNSW Sydney, focused on **LLM applic
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/danic-125189dc/)
+Email: [dannieec@hotmail.com](mailto:dannieec@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/danic-125189dc/)
